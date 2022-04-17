@@ -21,3 +21,22 @@
   li a:hover {
     background-color: #111;
   }
+  body {
+    background-color: lightblue ;
+}
+
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: rgb(29, 249, 194);
+      color: rgb(56, 52, 52);
+      text-align: center;
+    }
+
+.graph {
+  background-color: black;
+  font-size: xx-large;
+  color: whitesmoke;
+}
